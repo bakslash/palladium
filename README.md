@@ -1,4 +1,4 @@
-# palladium
+# pallapp
 Mysql, Expressjs, React, Nodejs
 
   
